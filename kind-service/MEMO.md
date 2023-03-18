@@ -1,6 +1,7 @@
 # kindを使ってサービスの作成まで行う
 
 参考: https://qiita.com/tomoyafujita/items/5a3c06705f62c5732bc5
+コンテキスト名: kind-service
 
 
 ## 各種コマンド
